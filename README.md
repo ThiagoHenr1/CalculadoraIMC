@@ -4,4 +4,4 @@ Calculadora IMC
 
 ## Preview
 
-![img](https://i.imgur.com/eMQhgOt.mp4)
+![img](https://i.imgur.com/XMUgbr4.gif)
